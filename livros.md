@@ -42,6 +42,6 @@
 
 **Título:** Python: Penetration Testing for Developers - *Unleash the power of Python scripting to execute
 effective and efficient penetration tests* <br>
-**Autores:** Christopher Duffy, Mohit, Cameron Buchanan, Terry Ip, Andrew Mabbitt, Benjamin May, Dave Mound
-**Editora:** Packt Publishing
+**Autores:** Christopher Duffy, Mohit, Cameron Buchanan, Terry Ip, Andrew Mabbitt, Benjamin May, Dave Mound <br>
+**Editora:** Packt Publishing <br>
 **Nível:** :star::star::star::star::star2:
