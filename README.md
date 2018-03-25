@@ -13,3 +13,6 @@ A seguir você encontra uma lista de diferentes projetos que você pode praticar
 __Links recomendados__ <br>
 [Como contribuir](https://github.com/nunesdaniel/apenas-programe-em-python/blob/master/Contribuindo.md) <br>
 [Licença](https://github.com/nunesdaniel/apenas-programe-em-python/blob/master/LICENSE)
+
+__Livros__<br>
+[Livros sobre Python 2 e 3](https://github.com/nunesdaniel/apenas-programe-em-python/blob/master/livros.md) <br>
